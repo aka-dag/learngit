@@ -9,3 +9,5 @@ Git is a version control system.
 4.Git traces changes.
 
 5.Create a branch is convenient.
+
+6.creating a new branch
