@@ -5,3 +5,5 @@ Git is a version control system.
 2.Git is what I'm now studying in my home.
 
 3.Git has a mutable index called stage.
+
+4.Git traces changes.
