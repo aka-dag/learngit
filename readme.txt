@@ -7,3 +7,5 @@ Git is a version control system.
 3.Git has a mutable index called stage.
 
 4.Git traces changes.
+
+5.Create a branch is convenient.
