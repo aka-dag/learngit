@@ -2,4 +2,4 @@ This is the first try.
 
 Git is a version control system.
 
-Git is free software.
+2.Git is what I'm now studying.
